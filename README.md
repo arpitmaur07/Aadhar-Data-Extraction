@@ -42,7 +42,4 @@
 <img align="center" height="400px" width="450px" src="Image.jpg" alt="Example image">
 
 <h2 align="center">Yolo custom training video demo for Aadhar Card🎬 </h2>
-<video width="320" height="240" controls>
-    <source src="Train_YoloV3.mp4" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
+<img src="ezgif.com-video-to-gif.gif" alt="trainingVideo">
